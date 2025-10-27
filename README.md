@@ -57,7 +57,11 @@ Navigation between screens is handled using **Intents**:
 - **UI Layouts:** XML  
 - **IDE:** Android Studio  
 - **Min SDK:** 21+ (Android 5.0 Lollipop)
-- app/
+
+---
+
+## 📂 Project Structure
+app/
 ├── java/com/example/loginapp/
 │ ├── LoginActivity.java
 │ ├── RegisterActivity.java
@@ -84,7 +88,3 @@ Navigation between screens is handled using **Intents**:
 Open the project in Android Studio.
 
 Build and run the app on an emulator or physical Android device.
-
----
-
-## 📂 Project Structure
