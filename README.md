@@ -8,7 +8,7 @@ It includes multiple screens (activities) for login, registration, password reco
 ## 📱 Features
 
 ### 1. Login Functionality
-- Users can log in using **hard-coded credentials** (for example: `admin / 12345`).
+- Users can log in using **hard-coded credentials** (`aliza / 12345`).
 - Displays a toast message for success or failure.
 - Redirects to the **Home Page** after successful login.
 
